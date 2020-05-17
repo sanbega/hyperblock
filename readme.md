@@ -12,6 +12,7 @@ En este curso vemos de todo:
 *El verdadero amor por las buenas practicas 
 *Trucos muy locos del profesor 
 *Las personalidades multiples de Sanbega
-*creado por el increible platzi team
-*incluye ejemplos en Windows, Linux y Mac 
+*Creado por el increible platzi team
+*Incluye ejemplos en Windows, Linux y Mac 
+*Disponibles para todas las edades 
 Y como un amable recordatorio **Este readme.md es un chiste**Diseñado para el ejemplo.si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso. [http://platzi.com/clases/git-github/](http://platzi.com/clases/git-github/)
